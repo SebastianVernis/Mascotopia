@@ -1,0 +1,26 @@
+{
+  "name": "mascotopia-vercel",
+  "version": "1.0.0",
+  "description": "E-commerce para mascotas - Serverless con Next.js y Vercel",
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "generate:images": "node scripts/generate-product-images.js"
+  },
+  "dependencies": {
+    "next": "^14.2.0",
+    "openai": "^6.9.1",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.3.0",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^14.2.0",
+    "typescript": "^5.4.0"
+  }
+}

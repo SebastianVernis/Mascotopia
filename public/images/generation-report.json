@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Alimento para Perros Premium",
+    "success": true,
+    "imageUrl": "https://replicate.delivery/xezq/GceTAgP7KR01KKlPcjFjWJqS5FkdDERirOSDRMMbFYODfsvVA/tmp90qzo9_n.webp",
+    "localPath": "/images/products/product-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Juguete para Gatos",
+    "success": true,
+    "imageUrl": "https://replicate.delivery/xezq/NBKkeF934ZXuCqP3d0wt3eDNfv4P9CfOWaQ61f3FrUtfjP7bF/tmp7k8c8pj0.webp",
+    "localPath": "/images/products/product-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Collar Ajustable",
+    "success": true,
+    "imageUrl": "https://replicate.delivery/xezq/WSPFttd2aUqpLleGLt3TTXbuXRYIz66TbFyeU8bZWc8ZeZfWB/tmpxqvsu_bo.webp",
+    "localPath": "/images/products/product-3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Alimento para Gatos",
+    "success": true,
+    "imageUrl": "https://replicate.delivery/xezq/GBmPaf3EeRmRi09oaKAWDlPeW1R5QyA9VxHjkExDbibI9ZfWB/tmp8d1al9bs.webp",
+    "localPath": "/images/products/product-4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Cama para Mascotas",
+    "success": true,
+    "imageUrl": "https://replicate.delivery/xezq/FAUHFV3DEfTRUKdNyp3IAH2Ycszwc8dPavTLVf1cFKqzeZfWB/tmp7t1s68qb.webp",
+    "localPath": "/images/products/product-5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Shampoo para Perros",
+    "success": true,
+    "imageUrl": "https://replicate.delivery/xezq/ekFeGFRnA6jU205eUGecCzU6WU11yy2CMIARd20qR5q17zetC/tmpz5_muv0o.webp",
+    "localPath": "/images/products/product-6.jpg"
+  }
+]
